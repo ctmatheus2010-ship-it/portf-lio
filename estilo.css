@@ -145,8 +145,6 @@ footer {
         background-color: #0000;
     }
     */
-
-    
     .cabecalho {
         padding: 10px;
     }
@@ -168,9 +166,9 @@ footer {
 
 
 @media only screen and (max-width:820px) {
-   * {background: #FFD700 ;
+   * {background: #FFD700;
       color: #E3DAC9;
     }
-
 }
+
 
