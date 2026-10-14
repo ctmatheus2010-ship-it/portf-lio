@@ -141,7 +141,7 @@ footer {
 
 
  /*Media Query - Deixar a página de forma responsiva */
-@media (max-width: 1080px) {
+@media (max-width: 820px) {
 
     .cabecalho {
         padding: 10px;
